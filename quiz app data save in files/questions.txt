@@ -1,0 +1,4 @@
+What does HTML stand for?,A. HyperText Markup Language,B. High Text Machine Language,C. Hyper Trainer Markup Language,D. None of the above, A
+Which programming language is known for its use in web development alongside HTML and CSS?,A. Java,B. Python,C. JavaScript,D. C++, C
+Which symbol is used to comment a line in Python?,A. #,B. //,C. /*,D. --, A
+What is the value of 2 + 2 in Python?,A. 3,B. 4,C. 5,D. 6, B
